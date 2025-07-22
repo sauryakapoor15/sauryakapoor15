@@ -32,6 +32,95 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1002" height="18"> </h1>
 
+<h2>🛠️ Languages & Tools </h2>
+
+<h3>💻 Frontend</h3>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/><br>HTML5
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/><br>CSS3
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/><br>JavaScript
+    </td>
+  </tr>
+</table>
+
+<h3>🧠 Backend & Languages</h3>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/><br>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/><br>C
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/><br>C++
+    </td>
+  </tr>
+</table>
+
+<h3>🧠 Database </h3>
+<table>
+    <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/><br>MongoDB
+    </td>
+  </tr>
+</table>
+      
+
+<h3>🚀 Deployment Platforms</h3>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="50" height="50" alt="Vercel"/><br>Vercel
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50" height="50" alt="Netlify"/><br>Netlify
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/><br>Docker
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="50" height="50" alt="Heroku"/><br>Heroku
+    </td>
+  </tr>
+</table>
+
+<h3>🔧 Version Control</h3>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/><br>GitHub
+    </td>
+  </tr>
+</table>
+
+<h3>📚 Libraries & CLI Tools</h3>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/termux/termux-app/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="50" height="50" alt="Termux"/><br>Termux
+    </td>
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telethon_logo.png" width="50" height="50" alt="Telethon"/><br>Telethon
+    </td>
+  </tr>
+</table>
+
+
+
 ## 📊 GitHub Stats  
 | ![Saurya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sauryakapoor15&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) | ![GitHub Streak](https://github-r7eadme-streak-stats.herokuapp.com/?user=sauryakapoor15&theme=dark&hide_border=false) |
 |:--:|:--:|
