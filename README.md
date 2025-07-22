@@ -18,8 +18,9 @@
 - 🎓 **Age :** 21
 - 📝 **Active :** **[Telegram](https://telegram.dog/cute_billa_hu)** (regularly)
 - 🧑‍🎓 **Profession:** Student
-- 📊 **Tech Stack :**  Python, JavaScript, HTML, CSS, MongoDB, Git, AWS, Docker, Vercel
 - 👨‍💻 **My projects :** [Click Here](https://github.com/sauryakapoor15?tab=repositories)
+-  **Like My Work ?** -  just buy me a coffee here --->       <a href="https://www.buymeacoffee.com/sauryakapoor15" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="20px" width="auto" ></a>
+
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1002" height="18"> </h1>
 
