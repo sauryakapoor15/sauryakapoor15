@@ -24,7 +24,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1002" height="18"> </h1>
 
 
- ## Visitor Count
+ ## 🙋‍♂️ Visitor Count
 <div align="center">
   
   ![Counter](https://count.getloli.com/get/@sauryakapoor15?theme=rule34)
@@ -32,7 +32,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1002" height="18"> </h1>
 
-<h2>🛠️ Languages & Tools</h2>
+## 🛠️ Languages & Tools
+
+<img align="right" height="250" width="375" alt="" src="https://media3.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e4702ybl5wovia9vx3ujmuw7kony7zys0w1fu81xw3j&rid=giphy.gif&ct=g" />
 
 <details>
   <summary><strong>💻 Frontend</strong></summary>
