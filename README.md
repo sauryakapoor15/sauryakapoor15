@@ -137,7 +137,7 @@
 
 
 ## 📊 GitHub Stats  
-| <img src="https://github-readme-stats.vercel.app/api?username=sauryakapoor15&show_icons=true&title_color=00AEDDFF&text_color=FCFCFC&icon_color=00AEDDFF&bg_color=151515&border_color=FCFCFC&border_radius=8&include_all_commits=true&count_private=true"/> |  <img src="http://github-readme-streak-stats.herokuapp.com?user=sauryakapoor15&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF"/> |
+| ![](https://github-readme-stats.vercel.app/api?username=sauryakapoor15&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true) |  ![](https://github-readme-streak-stats.herokuapp.com/?user=sauryakapoor15&theme=vue-dark&hide_border=false)|
 |:--:|:--:|
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1002" height="18"> </h1>
