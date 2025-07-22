@@ -152,3 +152,5 @@
  <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=sauryakapoor15&theme=onedark"/>
 </p>
+
+<h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> Connect with Me </h1>
