@@ -16,9 +16,10 @@
 - 🏡 **From :** India  
 - 💻 **Hobbies :** Coding, Editing, Mimicry 
 - 🎓 **Age :** 21
-- 📝 I regularly active on **[Telegram](https://telegram.dog/cute_billa_hu)**
+- 📝 **Active :** **[Telegram](https://telegram.dog/cute_billa_hu)** (regularly)
 - 🧑‍🎓 **Profession:** Student
-- **Tech Stack :**  Python, JavaScript, HTML, CSS, MongoDB, Git, AWS, Docker, Vercel
+- 📊 **Tech Stack :**  Python, JavaScript, HTML, CSS, MongoDB, Git, AWS, Docker, Vercel
+- 👨‍💻 **My projects :** [Click Here](https://github.com/sauryakapoor15?tab=repositories)
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1002" height="18"> </h1>
 
