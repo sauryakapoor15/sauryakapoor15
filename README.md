@@ -23,7 +23,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1002" height="18"> </h1>
 
 
- **Visitor Count
+ ## Visitor Count
 <div align="center">
   
   ![Counter](https://count.getloli.com/get/@sauryakapoor15?theme=rule34)
