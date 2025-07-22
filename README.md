@@ -33,7 +33,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1002" height="18"> </h1>
 
 ## 📊 GitHub Stats  
-| ![Saurya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sauryakapoor15&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sauryakapoor15&theme=dark&hide_border=false) |
+| ![Saurya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sauryakapoor15&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) | ![GitHub Streak](https://github-r7eadme-streak-stats.herokuapp.com/?user=sauryakapoor15&theme=dark&hide_border=false) |
 |:--:|:--:|
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1002" height="18"> </h1>
@@ -41,3 +41,10 @@
 ## 🔥 Language Usage  
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauryakapoor15&theme=dark&hide_border=false&layout=compact" height="180" width="400"> | <img src="https://github-contributor-stats.vercel.app/api?username=sauryakapoor15&limit=5&theme=dark&combine_all_yearly_contributions=true" height="180" width="400"> |
 |:--:|:--:|
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1002" height="18"> </h1>
+
+ ## Github's achievement and Trophy
+ <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=sauryakapoor15&theme=onedark"/>
+</p>
