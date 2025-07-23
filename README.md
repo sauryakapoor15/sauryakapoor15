@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿+WELCOME+TO+MY+PROFILE+🥀+🪽">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Welcome+𝚃o+My+Profile+😁;Follow+me+for+more+%E2%9D%A4%EF%B8%8F" alt="Typing SVG">
+</p>
 
 ```bash
                          ____                                  _  __                            
