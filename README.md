@@ -167,3 +167,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cute_billa_hu)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722.svg?style=for-the-badge&logo=Firefox&logoColor=white)](https://sauryakapoorportfolio.vercel.app/)
 
+
+![snake gif](https://github.com/sauryakapoor15/sauryakapoor15/blob/output/github-snake-dark.svg)
