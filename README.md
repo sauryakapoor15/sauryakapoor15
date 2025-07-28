@@ -10,6 +10,18 @@
                        |____/ \__,_|\__,_|_|   \__, |\__,_|   |_|\_\__,_| .__/ \___/ \___/|_|   
                                                |___/                    |_|                        
 ```
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sauryakapoor15&label=Profile+Views&color=brightgreen&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/sauryakapoor15?label=Followers&style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/stars/sauryakapoor15?style=flat-square&logo=github&label=Stars" />
+  <a href="https://github.com/sponsors/sauryakapoor15" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor Badge"/>
+</a>
+  <a href="https://github.com/sauryakapoor15">
+    <img src="https://badges.strrl.dev/commits/monthly/sauryakapoor15?style=flat-square&color=black&logo=github">
+  </a>
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1002" height="18"> </h1>
 
 
